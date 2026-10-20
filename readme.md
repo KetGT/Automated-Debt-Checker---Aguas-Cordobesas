@@ -31,4 +31,13 @@ The script is designed to read and write using a specific column layout. Your Ex
 Make sure you have Python installed on your system. You will also need to install the following Python libraries:
 
 - `playwright`
-- `open
+- `openpyxl`
+
+## 📦 Installation
+
+1. Clone this repository or download the source code.
+2. Open your terminal or command prompt and install the required dependencies:
+   ```bash
+   pip install playwright openpyxl
+   playwright install chromium
+   python main.py```
